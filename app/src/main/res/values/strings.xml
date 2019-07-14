@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CallTheList</string>
+    <string name="no_data">Kayıt Yok</string>
+    <string name="button_add">EKLE</string>
+    <string name="button_cancel">İPTAL</string>
+    <string name="menu_item_ara">Ara</string>
+</resources>
